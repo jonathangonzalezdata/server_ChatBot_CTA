@@ -1,0 +1,17 @@
+{
+  "name": "server_chat_bot_cta",
+  "version": "1.0.0",
+  "description": "Backend del proyecto de chat_bot de cta tipo REST API para administrar registros.",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Jonathan Gonzalez <jonathangonzalez.data@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
